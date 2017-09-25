@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Q&I Facts</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+  
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+   </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Q&I FACTS</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">FACTS & STATISTICS</a></li>
+		<li><a href="#">SOURCE</a></li>
+		</li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+  
+<div class="container-fluid text-center">    
+  <div class="row content">
+    
+    <div class="col-sm-12 text-left"> 
+      <h1>Welcome</h1>
+      <p>This page was solely created to understand and apply the basics of HTML,CSS and Bootstrap using the content availabe at <a herf="https://www.w3schools.com/default.asp">w3schools</a>.This page contains few quick and intersting facts which are quite fascinating to know.</p>
+      <hr>
+      <h2>Fun Fact!</h2>
+	   <div class="form-group">
+       &nbsp;
+      <p> Ever wondered where the term bug came from?The first ever computer bug reported was an actual bug (the insect)!In those days computers filled (large) rooms and the warmth of the internal components attracted moths, flies and other flying creatures. Those creatures then shortened circuits and caused the computer to malfunction.</p>
+	  <img class="img-responsive" src="https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2013/09/bug-500x245.jpg" alt="Written data">
+    </div>
+    </div>
+  </div>
+<div class="form-group">
+    &nbsp;
+</div>
+<div class="form-group">
+    &nbsp;
+</div>
+<div class="form-group">
+    &nbsp;
+</div>
+<footer class="container-fluid text-center">
+  <p>"Far too much has been written about great men, and not nearly enough about morons."</p>
+   <Br>
+   <p>           ~Tyrion Lannister </p>
+</footer>
+
+</body>
+</html>
